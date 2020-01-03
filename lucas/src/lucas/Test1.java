@@ -5,5 +5,6 @@ public class Test1 {
 
 		String s ="asdasd";
 		System.out.println(s);
+		System.out.println("12sa5s5ss55");
 	}
 }
